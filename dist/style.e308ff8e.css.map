@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA;IACI,wBAAwB;IACxB,+CAAgC;AACpC;;AAEA;IACI,qBAAqB;IACrB,+CAAiC;AACrC","file":"style.e308ff8e.css","sourceRoot":"..","sourcesContent":["@font-face {\n    font-family: myFirstFont;\n    src: url(dist/fonts/NONSTOP.TTF);\n}\n  \n@font-face {\n    font-family: playFont;\n    src: url(dist/fonts/22203___.TTF);\n}\n  "]}

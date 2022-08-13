@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}

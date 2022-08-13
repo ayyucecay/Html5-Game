@@ -1,0 +1,10 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(dist/fonts/NONSTOP.TTF);
+}
+  
+@font-face {
+    font-family: playFont;
+    src: url(dist/fonts/22203___.TTF);
+}
+  
