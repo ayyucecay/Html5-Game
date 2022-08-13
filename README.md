@@ -2,7 +2,7 @@
 Game made with phaser
 
 Install Game
--npm install 
+- npm install 
 
 Start Game
 - npx parcel index.html
